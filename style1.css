@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffe4f0;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #ff69b4;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+nav button {
+  background: white;
+  color: #ff69b4;
+  border: 2px solid #ff69b4;
+  margin: 5px;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+nav button:hover {
+  background: #ff1493;
+  color: white;
+}
+
+.category {
+  margin: 20px;
+  padding: 20px;
+  background: #fff0f5;
+  border: 2px solid #ff69b4;
+  border-radius: 10px;
+}
+
+.product {
+  background: white;
+  border: 2px solid #ff69b4;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  text-align: center;
+}
+
+button {
+  background-color: #ff69b4;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #ff1493;
+}
+
+#cart {
+  border: 3px solid #ff69b4;
+  background: #ffeaf4;
+}
